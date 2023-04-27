@@ -5,4 +5,5 @@ module.exports = class Card {
     this.rank = rank;
   }
 
+  
 }
